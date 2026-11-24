@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: AI Advanced Modeling Team - 2026 Research Highlights
 
 # Your name to show in the footer
-author: Some Person
+author: Pauline Baron
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Explore the latest breakthroughs in AI modeling & research from AXA's AAM research team
 
 ###########################
 # --- General options --- #
@@ -94,8 +94,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
   reddit: false
